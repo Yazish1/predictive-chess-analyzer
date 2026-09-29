@@ -1,0 +1,1 @@
+# predictive-chess-analyzer
